@@ -1,6 +1,6 @@
 body {
 	background-color: #000;
-	font-family: 'Bangers', cursive;
+	font-family: 'Contrail One', cursive;
 }
 
 .container {
@@ -59,7 +59,9 @@ body {
   float: left;
 }
 
-
+h1 {
+	padding-top: 90px;
+}
 
 
 
